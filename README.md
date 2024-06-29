@@ -3,7 +3,6 @@ Nia Rajnish, Jay Sharma, Jordan Wong, Priyanka Bhargav, Chin Yee Lai
 Dept. of Electrical Engineering and Computer Science  
 York University  
 Toronto, Ontario, Canada M3J 1P3  
-Emails: niaraj1@my.yorku.ca, jksharma@my.yorku.ca, wjor390@my.yorku.ca, bhargavp@my.yorku.ca, chinyee8@my.yorku.ca  
 
 ---
 
