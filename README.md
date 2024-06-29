@@ -1,5 +1,5 @@
 ## Authors
-Nia Rajnish, Jay Sharma, Jordan Wong, Priyanka Bhargav, Chin Yee Lai  
+Jay Sharma, Nia Rajnish, Jordan Wong, Priyanka Bhargav, Chin Yee Lai  
 Dept. of Electrical Engineering and Computer Science  
 York University  
 Toronto, Ontario, Canada M3J 1P3  
